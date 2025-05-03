@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+   "type": "module",
+    "start": "node app.js"
+  
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
