@@ -12,6 +12,12 @@ A simple command-line calculator built with Node.js. It performs basic arithmeti
 
 - [Node.js](https://nodejs.org/) installed on your system
 
+## Modules Used
+
+- Built-in Node.js module: `readline` (for handling command-line input)
+- Third-party module: `chalk` (for colored console output)
+- Local modules: `add`, `subtract`, `multiply`, and `divide` (for arithmetic operations)
+
 ## Usage
 
 1. Clone the repository or download the source code.
@@ -31,8 +37,8 @@ node app.js
 
 ## Example
 ```
-Enter first number: 5  
-Enter second number: 3  
+Enter the first number: 5  
+Enter the second number: 3  
 Choose operation (add, subtract, multiply, divide): add  
 
 Result: 8
