@@ -6,7 +6,8 @@ A simple command-line calculator built with Node.js. It performs basic arithmeti
 
 - Add, subtract, multiply, and divide two numbers  
 - Input via command line  
-- Minimal and easy to use  
+- Minimal and easy to use
+- Coloured console output  
 
 ## Prerequisites
 
