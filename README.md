@@ -41,7 +41,7 @@ Enter the first number: 5
 Enter the second number: 3  
 Choose operation (add, subtract, multiply, divide): add  
 
-Result: 8
+The result is: 8
 ```
 ## License
 
